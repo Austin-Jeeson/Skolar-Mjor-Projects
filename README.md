@@ -1,2 +1,2 @@
-# Skolar-Mjor-P1
-First Major Project - for Skolar
+# Skolar-Mjor-Projects
+All Major Projects - for Skolar
