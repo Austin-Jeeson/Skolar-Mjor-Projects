@@ -4,7 +4,9 @@ Using examples of various unsupervised learning techniques , to explore and unde
 The Project contains the following :
 
 -1- Dataset : imported from sklearn
+              
               1) iris
+              
               2) blobs
 
 -2- Code    : skolar-unsupervised-combo.ipynb
